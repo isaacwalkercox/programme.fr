@@ -1,0 +1,6 @@
+D:\OpenProjects\programme.fr\programme.fr\bin\Debug\programme.fr.exe.config
+D:\OpenProjects\programme.fr\programme.fr\bin\Debug\programme.fr.exe
+D:\OpenProjects\programme.fr\programme.fr\bin\Debug\programme.fr.pdb
+D:\OpenProjects\programme.fr\programme.fr\obj\Debug\programme.fr.csprojResolveAssemblyReference.cache
+D:\OpenProjects\programme.fr\programme.fr\obj\Debug\programme.fr.exe
+D:\OpenProjects\programme.fr\programme.fr\obj\Debug\programme.fr.pdb
